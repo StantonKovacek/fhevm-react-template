@@ -149,9 +149,9 @@ fhevm-react-template/
 ### SDK Documentation
 - [Universal SDK Guide](./packages/fhevm-sdk/README.md)
 - [Frontend Integration Guide](./FRONTEND-INTEGRATION.md)
-- API Reference
-- TypeScript Types
-- Best Practices
+- [API Reference](./API-REFERENCE.md)
+- [TypeScript Types](./TYPESCRIPT-TYPES.md)
+- [Best Practices](./BEST-PRACTICES.md)
 
 ### Example Documentation
 - [Cultural Crowdfunding](./examples/cultural-crowdfunding/README.md)
